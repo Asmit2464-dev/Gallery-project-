@@ -31,7 +31,7 @@ if(userdata.length>0){
   return (
     <>
   <div className="bg-black h-screen overflow-auto text-white" >
-  <h1 className=' fixed b-g bg-red-500'>{index}</h1>
+
   
    <div className='flex h-{82%} flex-wrap gap-4 p-2'>
     {printUserData}
